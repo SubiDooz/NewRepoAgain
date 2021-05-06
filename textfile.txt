@@ -1,2 +1,6 @@
 This is a sample text file
+
 I am confused already in featureOne
+
+Adding a new line
+
